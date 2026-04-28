@@ -4,7 +4,7 @@
 
 <br/>
 
-## Hi, I'm Lester ✌️
+## Hi, I'm Lester!
 **TypeScript Developer & Student**
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL">
