@@ -5,7 +5,7 @@
 <br/>
 
 ## Hi, I'm Lester 🤍
-**TypeScript Developer & Student**
+**Full-stack Developer & Student**
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
