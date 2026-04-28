@@ -19,7 +19,7 @@
 
 My programming journey started with a curiosity about how developers build awesome apps. I want to build, tackle some bugs, and learn more in the process. Software development is never easy, of course, but that's exactly what makes it so rewarding.
 
-* **Currently working on:** Expanding my full-stack capabilities with [Mentorly](link-here) and [Rentora](link-here), and just thinking about the future.
+* **Currently working on:** Expanding my full-stack capabilities and just thinking about the future.
 
 <hr/>
 
