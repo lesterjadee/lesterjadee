@@ -25,7 +25,7 @@ My programming journey started with a curiosity about how developers build aweso
 
 ### Education
 
-* **BS in Computer Science** | *[Your University Name]* (202X - Present)
+BS in Computer Science | Gordon College, Olongapo City 2023-2026
 
 <hr/>
 
